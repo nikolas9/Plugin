@@ -1,0 +1,20 @@
+.container  {
+    width: 600px;
+    margin: 60px auto;
+}
+
+#bx-pager img {
+    width: 130px;
+    height: auto;
+}
+
+.bx-viewport {
+    box-shadow: none !important;
+    border: none !important;
+}
+.bxslider {
+    margin: 0;
+}
+.bxslider img {
+    width: 100%;
+}
